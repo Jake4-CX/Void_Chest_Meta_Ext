@@ -1,0 +1,10 @@
+name: VoidChest-AllowMeta
+version: '${project.version}'
+main: lat.jack.voidchest.allowitemmeta.Main
+api-version: 1.16
+authors: [ Jake4 ]
+description: Allows VoidChest to accept and sale Items containing meta data
+website: https://zyrex.cx
+depend:
+  - VoidChest
+  - ShopGUIPlus
